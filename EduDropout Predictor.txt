@@ -1,0 +1,34 @@
+EduDropout Predictor
+
+
+Abstract
+
+This project predicts students at risk of dropping out using machine learning techniques. It analyzes academic and socio-economic factors to identify patterns and provide early intervention insights.
+
+Problem Statement
+
+School dropout rates remain high. This project aims to identify at-risk students using predictive models.
+
+Dataset
+
+Student Performance Dataset (academic + behavioral data)
+
+Methodology 
+
+ Data Preprocessing
+ Exploratory Data Analysis
+ Data Visualization
+ Model Building (Logistic Regression)
+
+Tools Used
+
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+Results
+
+The model achieved high accuracy and successfully identified at-risk students.
+
+Team Members
+ 
+S K KARTHIKESH 
+SEENU C
